@@ -1,6 +1,6 @@
 # S&P 500 Drawdowns — Output Format Reference
 
-This bundle contains the outputs of the six-stage `drawdown-atlas` pipeline:
+This bundle contains the outputs of the seven-stage `drawdown-atlas` pipeline:
 human-readable Markdown reports and machine-readable CSVs. Everything is
 reproducible from the source pipeline at
 <https://github.com/hayden1126/drawdown-atlas>.
@@ -72,6 +72,10 @@ today's list.
 - `regime_sector_counts.csv` — sector frequency by regime.
 - `regime_factor_summary.csv` — factor exposures by regime (with bootstrap CIs).
 - `regime_report.md` — narrative report.
+
+### Stage 7 — Fama-French sector gap-close (covers pre-1985 drawdowns)
+- `ff_sector_returns_per_drawdown.csv` — peak-to-trough cumulative return per industry, every drawdown.
+- `ff_sector_leaders.csv` — top-3 industries per drawdown, with GICS sector mapping.
 
 ### Within-year variant
 - `drawdowns_<YYYY>.csv`, `top5_per_drawdown_<YYYY>.csv`, `report_<YYYY>.md`.
@@ -202,6 +206,40 @@ One row per drawdown peak (all 26, not just the 14 covered ones).
 Markdown report combining the labels, regime-frequency counts, factor table
 (with bootstrap CIs), and a sector-leadership pivot.
 
+### `ff_sector_returns_per_drawdown.csv` — Stage 7 full industry returns
+
+Cumulative compound return per Fama-French 12-industry portfolio over each
+drawdown's peak→trough window. Covers all 26 drawdowns (including pre-1985,
+which Stage 4/5/6 don't reach). 312 rows = 26 × 12.
+
+| Column | Type | Meaning |
+|---|---|---|
+| `peak_date` | `YYYY-MM-DD` | Joins to `drawdowns.csv`. |
+| `trough_date` | `YYYY-MM-DD` | Same. |
+| `ff_industry` | str | One of `NoDur, Durbl, Manuf, Enrgy, Chems, BusEq, Telcm, Utils, Shops, Hlth, Money, Other`. |
+| `gics_sector` | str | Approximate GICS sector for joining against Stage 5/6 sector tables. |
+| `cum_return_pct` | float | Cumulative compound return over [peak, trough], in percent. Total returns (FF series include dividends). |
+
+### `ff_sector_leaders.csv` — Stage 7 top-3 industries per drawdown
+
+Three rows per drawdown — the FF 12-industry top-3 by peak-to-trough
+cumulative return. 78 rows in the current build (26 × 3).
+
+| Column | Type | Meaning |
+|---|---|---|
+| `peak_date` | `YYYY-MM-DD` | Joins to `drawdowns.csv`. |
+| `trough_date` | `YYYY-MM-DD` | Same. |
+| `rank` | int 1..3 | 1 = best peak→trough cumulative return. |
+| `ff_industry` | str | Fama-French industry name. |
+| `gics_sector` | str | Approximate GICS sector mapping. |
+| `cum_return_pct` | float | Cumulative return over [peak, trough], in percent. |
+
+**Caveat:** FF portfolios are cap-weighted across the **full CRSP universe**,
+not restricted to S&P 500 constituents. This is a proxy that lets us see
+sector leadership for pre-1985 drawdowns where Stage 4/5/6 (SPX-restricted)
+have no data; it is not an apples-to-apples substitute for the top-5
+constituent rankings.
+
 ### `drawdowns_2000.csv` — within-year drawdowns (calendar year 2000)
 
 Same schema as `drawdowns.csv`, but produced under the **within-window**
@@ -260,6 +298,7 @@ from scratch:
 python -m sp500_drawdowns.cli run            # Stages 1-4 (all-history)
 python -m sp500_drawdowns.cli factors        # Stage 5
 python -m sp500_drawdowns.cli regimes        # Stage 6
+python -m sp500_drawdowns.cli ff-sectors     # Stage 7
 python -m sp500_drawdowns.cli year 2000      # within-year variant
 ```
 

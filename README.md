@@ -29,6 +29,7 @@ python -m sp500_drawdowns.cli rank
 python -m sp500_drawdowns.cli report
 python -m sp500_drawdowns.cli factors
 python -m sp500_drawdowns.cli regimes
+python -m sp500_drawdowns.cli ff-sectors
 ```
 
 The `factors` stage (Stage 5) aggregates sector and pre-drawdown factor proxies

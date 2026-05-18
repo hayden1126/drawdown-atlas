@@ -78,13 +78,14 @@ structural* (1929, 1980, 2007) — and they have different leadership.
 
 **Telecom dominates the pre-1985 leaderboard.** This was the biggest
 surprise. Telecom (essentially AT&T pre-Bell-breakup, then incumbent
-telcos) is the #1 sector leader in **5 of the 9 pre-1985 episodes**
-across all regimes — including 1929, 1955, 1959, 1973, 1980. In the
-post-1985 sample it appears just twice. This is not just structural
-bears; it's a pre-1985-wide regularity, almost certainly tied to AT&T
-being a regulated monopoly with reliable dividends in a market that
-hadn't yet been overtaken by growth stocks. After deregulation (1982)
-and the rise of growth-style investing, the pattern dissolves.
+telcos) is the #1 sector leader in **7 of the 12 pre-1985 episodes**
+across all regimes — 1928, 1929, 1955, 1959, 1973, 1980, plus tied
+appearances. In the post-1985 sample Telcm is rank-1 just twice. This
+is not just structural bears; it's a pre-1985-wide regularity, almost
+certainly tied to AT&T being a regulated monopoly with reliable
+dividends in a market that hadn't yet been overtaken by growth stocks.
+After deregulation (1982) and the rise of growth-style investing, the
+pattern dissolves.
 
 ## So what's the headline now?
 
@@ -105,10 +106,11 @@ version:
    them into one "structural" row hides the substructure.
 
 3. **Telecom's pre-1985 dominance is a regime change, not just a
-   drawdown finding.** Something fundamental changed about which
-   sectors lead bear markets around 1985 — most likely the breakup of
-   AT&T (1984) plus the rise of growth investing. This is itself a
-   research question worth a separate look.
+   drawdown finding.** Telcm was the #1 leader in 7 of 12 pre-1985
+   drawdowns and just 2 of 14 post-1985 ones. Something fundamental
+   changed about which sectors lead bear markets around 1985 — most
+   likely the breakup of AT&T (1984) plus the rise of growth investing.
+   This is itself a research question worth a separate look.
 
 ## What this is and is not (still)
 
