@@ -47,6 +47,16 @@ CIs. Outputs: `regime_labels.csv`, `regime_sector_counts.csv`,
 `regime_factor_summary.csv`, `regime_report.md`. Regime labels are
 hand-curated with rationales preserved in the CSV.
 
+The `ff-sectors` stage (Stage 7) closes the pre-1985 coverage gap by using
+Ken French's 12-industry value-weighted daily portfolios (1926-07-01 onward,
+free from Dartmouth) as a sector-leadership proxy where yfinance constituent
+prices don't exist. Top-3 industries per drawdown, with a GICS-compatible
+mapping for joining against Stage 5/6 outputs. Honest caveat: FF portfolios
+are cap-weighted CRSP-universe, not SPX-restricted — a proxy, not a
+substitute. Outputs: `ff_sector_returns_per_drawdown.csv`,
+`ff_sector_leaders.csv`. See `docs/post_part2_gap_close.md` for the full
+analysis enabled by this stage.
+
 ## Caveats
 
 - **Membership reconstruction** uses Wikipedia's "Selected changes" table walked

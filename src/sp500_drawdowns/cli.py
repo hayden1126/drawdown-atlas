@@ -8,6 +8,7 @@ import click
 from . import constituents as cons
 from . import drawdowns as dd
 from . import factors as fac
+from . import ff_sectors as ff
 from . import prices as px_mod
 from . import ranking as rk
 from . import regimes as reg
@@ -79,6 +80,13 @@ def factors() -> None:
     """Stage 5: aggregate defensive-factor exposures across top-5 winners."""
     fac.run()
     click.echo("Defensive-factor report written.")
+
+
+@cli.command("ff-sectors")
+def ff_sectors_cmd() -> None:
+    """Stage 7: Fama-French 12-industry sector leaders per drawdown (covers pre-1985)."""
+    ff.run()
+    click.echo("FF sector-leader output written.")
 
 
 @cli.command()

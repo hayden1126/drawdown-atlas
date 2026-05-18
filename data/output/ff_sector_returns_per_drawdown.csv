@@ -1,0 +1,313 @@
+peak_date,trough_date,ff_industry,gics_sector,cum_return_pct
+1928-05-14,1928-06-12,NoDur,Consumer Defensive,-7.679
+1928-05-14,1928-06-12,Durbl,Consumer Cyclical,-10.764
+1928-05-14,1928-06-12,Manuf,Industrials,-8.33
+1928-05-14,1928-06-12,Enrgy,Energy,-13.84
+1928-05-14,1928-06-12,Chems,Basic Materials,-5.902
+1928-05-14,1928-06-12,BusEq,Technology,-13.649
+1928-05-14,1928-06-12,Telcm,Communication Services,-5.28
+1928-05-14,1928-06-12,Utils,Utilities,-12.38
+1928-05-14,1928-06-12,Shops,Consumer Cyclical,-6.264
+1928-05-14,1928-06-12,Hlth,Healthcare,-6.782
+1928-05-14,1928-06-12,Money,Financial Services,-15.597
+1928-05-14,1928-06-12,Other,Other,-8.936
+1929-09-16,1932-06-01,NoDur,Consumer Defensive,-66.607
+1929-09-16,1932-06-01,Durbl,Consumer Cyclical,-88.576
+1929-09-16,1932-06-01,Manuf,Industrials,-89.2
+1929-09-16,1932-06-01,Enrgy,Energy,-78.408
+1929-09-16,1932-06-01,Chems,Basic Materials,-83.714
+1929-09-16,1932-06-01,BusEq,Technology,-91.544
+1929-09-16,1932-06-01,Telcm,Communication Services,-63.948
+1929-09-16,1932-06-01,Utils,Utilities,-83.178
+1929-09-16,1932-06-01,Shops,Consumer Cyclical,-83.555
+1929-09-16,1932-06-01,Hlth,Healthcare,-72.332
+1929-09-16,1932-06-01,Money,Financial Services,-92.151
+1929-09-16,1932-06-01,Other,Other,-89.996
+1955-09-23,1955-10-11,NoDur,Consumer Defensive,-5.773
+1955-09-23,1955-10-11,Durbl,Consumer Cyclical,-8.19
+1955-09-23,1955-10-11,Manuf,Industrials,-11.147
+1955-09-23,1955-10-11,Enrgy,Energy,-10.27
+1955-09-23,1955-10-11,Chems,Basic Materials,-12.431
+1955-09-23,1955-10-11,BusEq,Technology,-9.867
+1955-09-23,1955-10-11,Telcm,Communication Services,-3.304
+1955-09-23,1955-10-11,Utils,Utilities,-6.216
+1955-09-23,1955-10-11,Shops,Consumer Cyclical,-7.262
+1955-09-23,1955-10-11,Hlth,Healthcare,-7.535
+1955-09-23,1955-10-11,Money,Financial Services,-7.531
+1955-09-23,1955-10-11,Other,Other,-9.723
+1956-08-03,1957-10-22,NoDur,Consumer Defensive,-7.576
+1956-08-03,1957-10-22,Durbl,Consumer Cyclical,-18.658
+1956-08-03,1957-10-22,Manuf,Industrials,-25.293
+1956-08-03,1957-10-22,Enrgy,Energy,-16.717
+1956-08-03,1957-10-22,Chems,Basic Materials,-22.003
+1956-08-03,1957-10-22,BusEq,Technology,-7.73
+1956-08-03,1957-10-22,Telcm,Communication Services,-5.381
+1956-08-03,1957-10-22,Utils,Utilities,-9.396
+1956-08-03,1957-10-22,Shops,Consumer Cyclical,-14.156
+1956-08-03,1957-10-22,Hlth,Healthcare,6.62
+1956-08-03,1957-10-22,Money,Financial Services,-13.913
+1956-08-03,1957-10-22,Other,Other,-26.018
+1959-08-03,1960-10-25,NoDur,Consumer Defensive,13.183
+1959-08-03,1960-10-25,Durbl,Consumer Cyclical,-22.071
+1959-08-03,1960-10-25,Manuf,Industrials,-19.209
+1959-08-03,1960-10-25,Enrgy,Energy,-16.949
+1959-08-03,1960-10-25,Chems,Basic Materials,-22.82
+1959-08-03,1960-10-25,BusEq,Technology,-2.817
+1959-08-03,1960-10-25,Telcm,Communication Services,15.341
+1959-08-03,1960-10-25,Utils,Utilities,9.592
+1959-08-03,1960-10-25,Shops,Consumer Cyclical,-0.448
+1959-08-03,1960-10-25,Hlth,Healthcare,-8.567
+1959-08-03,1960-10-25,Money,Financial Services,-8.477
+1959-08-03,1960-10-25,Other,Other,-17.96
+1961-12-12,1962-06-26,NoDur,Consumer Defensive,-33.636
+1961-12-12,1962-06-26,Durbl,Consumer Cyclical,-20.625
+1961-12-12,1962-06-26,Manuf,Industrials,-30.185
+1961-12-12,1962-06-26,Enrgy,Energy,-12.574
+1961-12-12,1962-06-26,Chems,Basic Materials,-29.288
+1961-12-12,1962-06-26,BusEq,Technology,-38.785
+1961-12-12,1962-06-26,Telcm,Communication Services,-26.624
+1961-12-12,1962-06-26,Utils,Utilities,-22.865
+1961-12-12,1962-06-26,Shops,Consumer Cyclical,-30.797
+1961-12-12,1962-06-26,Hlth,Healthcare,-36.825
+1961-12-12,1962-06-26,Money,Financial Services,-33.094
+1961-12-12,1962-06-26,Other,Other,-23.812
+1966-02-09,1966-10-07,NoDur,Consumer Defensive,-22.043
+1966-02-09,1966-10-07,Durbl,Consumer Cyclical,-27.608
+1966-02-09,1966-10-07,Manuf,Industrials,-22.064
+1966-02-09,1966-10-07,Enrgy,Energy,-13.088
+1966-02-09,1966-10-07,Chems,Basic Materials,-26.476
+1966-02-09,1966-10-07,BusEq,Technology,-15.686
+1966-02-09,1966-10-07,Telcm,Communication Services,-16.442
+1966-02-09,1966-10-07,Utils,Utilities,-13.142
+1966-02-09,1966-10-07,Shops,Consumer Cyclical,-19.846
+1966-02-09,1966-10-07,Hlth,Healthcare,-20.706
+1966-02-09,1966-10-07,Money,Financial Services,-22.147
+1966-02-09,1966-10-07,Other,Other,-26.969
+1967-09-25,1968-03-05,NoDur,Consumer Defensive,-4.407
+1967-09-25,1968-03-05,Durbl,Consumer Cyclical,-13.03
+1967-09-25,1968-03-05,Manuf,Industrials,-11.812
+1967-09-25,1968-03-05,Enrgy,Energy,-3.882
+1967-09-25,1968-03-05,Chems,Basic Materials,-11.875
+1967-09-25,1968-03-05,BusEq,Technology,-6.418
+1967-09-25,1968-03-05,Telcm,Communication Services,-4.248
+1967-09-25,1968-03-05,Utils,Utilities,-2.419
+1967-09-25,1968-03-05,Shops,Consumer Cyclical,2.184
+1967-09-25,1968-03-05,Hlth,Healthcare,-16.771
+1967-09-25,1968-03-05,Money,Financial Services,-1.829
+1967-09-25,1968-03-05,Other,Other,-12.328
+1968-11-29,1970-05-26,NoDur,Consumer Defensive,-32.988
+1968-11-29,1970-05-26,Durbl,Consumer Cyclical,-34.397
+1968-11-29,1970-05-26,Manuf,Industrials,-38.266
+1968-11-29,1970-05-26,Enrgy,Energy,-42.725
+1968-11-29,1970-05-26,Chems,Basic Materials,-32.727
+1968-11-29,1970-05-26,BusEq,Technology,-39.477
+1968-11-29,1970-05-26,Telcm,Communication Services,-22.233
+1968-11-29,1970-05-26,Utils,Utilities,-26.477
+1968-11-29,1970-05-26,Shops,Consumer Cyclical,-34.933
+1968-11-29,1970-05-26,Hlth,Healthcare,-16.027
+1968-11-29,1970-05-26,Money,Financial Services,-41.275
+1968-11-29,1970-05-26,Other,Other,-49.868
+1973-01-11,1974-10-03,NoDur,Consumer Defensive,-53.061
+1973-01-11,1974-10-03,Durbl,Consumer Cyclical,-54.35
+1973-01-11,1974-10-03,Manuf,Industrials,-45.35
+1973-01-11,1974-10-03,Enrgy,Energy,-34.374
+1973-01-11,1974-10-03,Chems,Basic Materials,-40.085
+1973-01-11,1974-10-03,BusEq,Technology,-52.587
+1973-01-11,1974-10-03,Telcm,Communication Services,-22.933
+1973-01-11,1974-10-03,Utils,Utilities,-42.134
+1973-01-11,1974-10-03,Shops,Consumer Cyclical,-59.138
+1973-01-11,1974-10-03,Hlth,Healthcare,-47.251
+1973-01-11,1974-10-03,Money,Financial Services,-55.264
+1973-01-11,1974-10-03,Other,Other,-53.701
+1980-11-28,1982-08-12,NoDur,Consumer Defensive,15.69
+1980-11-28,1982-08-12,Durbl,Consumer Cyclical,-1.667
+1980-11-28,1982-08-12,Manuf,Industrials,-26.466
+1980-11-28,1982-08-12,Enrgy,Energy,-51.254
+1980-11-28,1982-08-12,Chems,Basic Materials,-19.11
+1980-11-28,1982-08-12,BusEq,Technology,-24.268
+1980-11-28,1982-08-12,Telcm,Communication Services,24.469
+1980-11-28,1982-08-12,Utils,Utilities,4.47
+1980-11-28,1982-08-12,Shops,Consumer Cyclical,12.906
+1980-11-28,1982-08-12,Hlth,Healthcare,5.704
+1980-11-28,1982-08-12,Money,Financial Services,-5.085
+1980-11-28,1982-08-12,Other,Other,-26.993
+1983-10-10,1984-07-24,NoDur,Consumer Defensive,-5.101
+1983-10-10,1984-07-24,Durbl,Consumer Cyclical,-15.925
+1983-10-10,1984-07-24,Manuf,Industrials,-12.088
+1983-10-10,1984-07-24,Enrgy,Energy,8.301
+1983-10-10,1984-07-24,Chems,Basic Materials,-14.239
+1983-10-10,1984-07-24,BusEq,Technology,-25.922
+1983-10-10,1984-07-24,Telcm,Communication Services,4.19
+1983-10-10,1984-07-24,Utils,Utilities,-8.292
+1983-10-10,1984-07-24,Shops,Consumer Cyclical,-15.526
+1983-10-10,1984-07-24,Hlth,Healthcare,-22.105
+1983-10-10,1984-07-24,Money,Financial Services,-14.587
+1983-10-10,1984-07-24,Other,Other,-21.275
+1987-08-25,1987-12-04,NoDur,Consumer Defensive,-31.071
+1987-08-25,1987-12-04,Durbl,Consumer Cyclical,-37.47
+1987-08-25,1987-12-04,Manuf,Industrials,-34.5
+1987-08-25,1987-12-04,Enrgy,Energy,-29.08
+1987-08-25,1987-12-04,Chems,Basic Materials,-33.378
+1987-08-25,1987-12-04,BusEq,Technology,-38.21
+1987-08-25,1987-12-04,Telcm,Communication Services,-21.102
+1987-08-25,1987-12-04,Utils,Utilities,-13.667
+1987-08-25,1987-12-04,Shops,Consumer Cyclical,-42.038
+1987-08-25,1987-12-04,Hlth,Healthcare,-33.231
+1987-08-25,1987-12-04,Money,Financial Services,-31.48
+1987-08-25,1987-12-04,Other,Other,-37.083
+1989-10-09,1990-01-30,NoDur,Consumer Defensive,-13.445
+1989-10-09,1990-01-30,Durbl,Consumer Cyclical,-15.574
+1989-10-09,1990-01-30,Manuf,Industrials,-8.288
+1989-10-09,1990-01-30,Enrgy,Energy,0.946
+1989-10-09,1990-01-30,Chems,Basic Materials,-8.67
+1989-10-09,1990-01-30,BusEq,Technology,-11.158
+1989-10-09,1990-01-30,Telcm,Communication Services,-13.19
+1989-10-09,1990-01-30,Utils,Utilities,0.833
+1989-10-09,1990-01-30,Shops,Consumer Cyclical,-11.681
+1989-10-09,1990-01-30,Hlth,Healthcare,-6.289
+1989-10-09,1990-01-30,Money,Financial Services,-19.643
+1989-10-09,1990-01-30,Other,Other,-16.122
+1990-07-16,1990-10-11,NoDur,Consumer Defensive,-15.414
+1990-07-16,1990-10-11,Durbl,Consumer Cyclical,-29.468
+1990-07-16,1990-10-11,Manuf,Industrials,-26.316
+1990-07-16,1990-10-11,Enrgy,Energy,-4.026
+1990-07-16,1990-10-11,Chems,Basic Materials,-22.276
+1990-07-16,1990-10-11,BusEq,Technology,-30.62
+1990-07-16,1990-10-11,Telcm,Communication Services,-12.907
+1990-07-16,1990-10-11,Utils,Utilities,-2.603
+1990-07-16,1990-10-11,Shops,Consumer Cyclical,-30.748
+1990-07-16,1990-10-11,Hlth,Healthcare,-12.982
+1990-07-16,1990-10-11,Money,Financial Services,-29.759
+1990-07-16,1990-10-11,Other,Other,-27.692
+1997-10-07,1997-10-27,NoDur,Consumer Defensive,-8.832
+1997-10-07,1997-10-27,Durbl,Consumer Cyclical,-6.89
+1997-10-07,1997-10-27,Manuf,Industrials,-9.932
+1997-10-07,1997-10-27,Enrgy,Energy,-9.973
+1997-10-07,1997-10-27,Chems,Basic Materials,-7.739
+1997-10-07,1997-10-27,BusEq,Technology,-13.986
+1997-10-07,1997-10-27,Telcm,Communication Services,-4.764
+1997-10-07,1997-10-27,Utils,Utilities,-2.721
+1997-10-07,1997-10-27,Shops,Consumer Cyclical,-8.342
+1997-10-07,1997-10-27,Hlth,Healthcare,-7.15
+1997-10-07,1997-10-27,Money,Financial Services,-8.621
+1997-10-07,1997-10-27,Other,Other,-9.052
+1998-07-17,1998-08-31,NoDur,Consumer Defensive,-17.092
+1998-07-17,1998-08-31,Durbl,Consumer Cyclical,-20.927
+1998-07-17,1998-08-31,Manuf,Industrials,-22.327
+1998-07-17,1998-08-31,Enrgy,Energy,-14.529
+1998-07-17,1998-08-31,Chems,Basic Materials,-17.418
+1998-07-17,1998-08-31,BusEq,Technology,-22.477
+1998-07-17,1998-08-31,Telcm,Communication Services,-13.993
+1998-07-17,1998-08-31,Utils,Utilities,-2.264
+1998-07-17,1998-08-31,Shops,Consumer Cyclical,-20.999
+1998-07-17,1998-08-31,Hlth,Healthcare,-17.335
+1998-07-17,1998-08-31,Money,Financial Services,-27.086
+1998-07-17,1998-08-31,Other,Other,-25.429
+1999-07-16,1999-10-15,NoDur,Consumer Defensive,-14.606
+1999-07-16,1999-10-15,Durbl,Consumer Cyclical,-14.824
+1999-07-16,1999-10-15,Manuf,Industrials,-8.523
+1999-07-16,1999-10-15,Enrgy,Energy,-8.426
+1999-07-16,1999-10-15,Chems,Basic Materials,-11.185
+1999-07-16,1999-10-15,BusEq,Technology,-6.668
+1999-07-16,1999-10-15,Telcm,Communication Services,-8.321
+1999-07-16,1999-10-15,Utils,Utilities,-6.813
+1999-07-16,1999-10-15,Shops,Consumer Cyclical,-12.872
+1999-07-16,1999-10-15,Hlth,Healthcare,-9.1
+1999-07-16,1999-10-15,Money,Financial Services,-19.238
+1999-07-16,1999-10-15,Other,Other,-14.483
+2000-03-24,2002-10-09,NoDur,Consumer Defensive,22.674
+2000-03-24,2002-10-09,Durbl,Consumer Cyclical,-35.485
+2000-03-24,2002-10-09,Manuf,Industrials,-28.25
+2000-03-24,2002-10-09,Enrgy,Energy,-5.701
+2000-03-24,2002-10-09,Chems,Basic Materials,5.288
+2000-03-24,2002-10-09,BusEq,Technology,-82.051
+2000-03-24,2002-10-09,Telcm,Communication Services,-72.77
+2000-03-24,2002-10-09,Utils,Utilities,-14.623
+2000-03-24,2002-10-09,Shops,Consumer Cyclical,-25.128
+2000-03-24,2002-10-09,Hlth,Healthcare,-17.412
+2000-03-24,2002-10-09,Money,Financial Services,-12.104
+2000-03-24,2002-10-09,Other,Other,-46.082
+2007-10-09,2009-03-09,NoDur,Consumer Defensive,-35.395
+2007-10-09,2009-03-09,Durbl,Consumer Cyclical,-77.247
+2007-10-09,2009-03-09,Manuf,Industrials,-63.789
+2007-10-09,2009-03-09,Enrgy,Energy,-42.664
+2007-10-09,2009-03-09,Chems,Basic Materials,-45.263
+2007-10-09,2009-03-09,BusEq,Technology,-51.853
+2007-10-09,2009-03-09,Telcm,Communication Services,-54.868
+2007-10-09,2009-03-09,Utils,Utilities,-41.974
+2007-10-09,2009-03-09,Shops,Consumer Cyclical,-39.846
+2007-10-09,2009-03-09,Hlth,Healthcare,-33.7
+2007-10-09,2009-03-09,Money,Financial Services,-75.851
+2007-10-09,2009-03-09,Other,Other,-63.264
+2015-05-21,2016-02-11,NoDur,Consumer Defensive,0.212
+2015-05-21,2016-02-11,Durbl,Consumer Cyclical,-26.481
+2015-05-21,2016-02-11,Manuf,Industrials,-19.011
+2015-05-21,2016-02-11,Enrgy,Energy,-28.223
+2015-05-21,2016-02-11,Chems,Basic Materials,-11.878
+2015-05-21,2016-02-11,BusEq,Technology,-13.505
+2015-05-21,2016-02-11,Telcm,Communication Services,-9.845
+2015-05-21,2016-02-11,Utils,Utilities,-8.174
+2015-05-21,2016-02-11,Shops,Consumer Cyclical,-9.044
+2015-05-21,2016-02-11,Hlth,Healthcare,-18.194
+2015-05-21,2016-02-11,Money,Financial Services,-20.2
+2015-05-21,2016-02-11,Other,Other,-16.358
+2018-01-26,2018-02-08,NoDur,Consumer Defensive,-7.088
+2018-01-26,2018-02-08,Durbl,Consumer Cyclical,-7.64
+2018-01-26,2018-02-08,Manuf,Industrials,-9.428
+2018-01-26,2018-02-08,Enrgy,Energy,-13.87
+2018-01-26,2018-02-08,Chems,Basic Materials,-9.6
+2018-01-26,2018-02-08,BusEq,Technology,-8.651
+2018-01-26,2018-02-08,Telcm,Communication Services,-7.283
+2018-01-26,2018-02-08,Utils,Utilities,-7.487
+2018-01-26,2018-02-08,Shops,Consumer Cyclical,-7.736
+2018-01-26,2018-02-08,Hlth,Healthcare,-9.082
+2018-01-26,2018-02-08,Money,Financial Services,-8.913
+2018-01-26,2018-02-08,Other,Other,-9.655
+2018-09-20,2018-12-24,NoDur,Consumer Defensive,-14.56
+2018-09-20,2018-12-24,Durbl,Consumer Cyclical,-19.038
+2018-09-20,2018-12-24,Manuf,Industrials,-23.48
+2018-09-20,2018-12-24,Enrgy,Energy,-28.463
+2018-09-20,2018-12-24,Chems,Basic Materials,-14.333
+2018-09-20,2018-12-24,BusEq,Technology,-21.905
+2018-09-20,2018-12-24,Telcm,Communication Services,-11.159
+2018-09-20,2018-12-24,Utils,Utilities,-5.021
+2018-09-20,2018-12-24,Shops,Consumer Cyclical,-20.154
+2018-09-20,2018-12-24,Hlth,Healthcare,-15.396
+2018-09-20,2018-12-24,Money,Financial Services,-21.31
+2018-09-20,2018-12-24,Other,Other,-22.397
+2020-02-19,2020-03-23,NoDur,Consumer Defensive,-31.527
+2020-02-19,2020-03-23,Durbl,Consumer Cyclical,-45.048
+2020-02-19,2020-03-23,Manuf,Industrials,-43.149
+2020-02-19,2020-03-23,Enrgy,Energy,-55.086
+2020-02-19,2020-03-23,Chems,Basic Materials,-29.773
+2020-02-19,2020-03-23,BusEq,Technology,-30.04
+2020-02-19,2020-03-23,Telcm,Communication Services,-28.841
+2020-02-19,2020-03-23,Utils,Utilities,-38.14
+2020-02-19,2020-03-23,Shops,Consumer Cyclical,-24.651
+2020-02-19,2020-03-23,Hlth,Healthcare,-26.241
+2020-02-19,2020-03-23,Money,Financial Services,-43.298
+2020-02-19,2020-03-23,Other,Other,-37.488
+2022-01-03,2022-10-12,NoDur,Consumer Defensive,-7.479
+2022-01-03,2022-10-12,Durbl,Consumer Cyclical,-37.387
+2022-01-03,2022-10-12,Manuf,Industrials,-24.05
+2022-01-03,2022-10-12,Enrgy,Energy,53.374
+2022-01-03,2022-10-12,Chems,Basic Materials,-25.753
+2022-01-03,2022-10-12,BusEq,Technology,-34.389
+2022-01-03,2022-10-12,Telcm,Communication Services,-28.4
+2022-01-03,2022-10-12,Utils,Utilities,-10.27
+2022-01-03,2022-10-12,Shops,Consumer Cyclical,-23.232
+2022-01-03,2022-10-12,Hlth,Healthcare,-15.614
+2022-01-03,2022-10-12,Money,Financial Services,-18.758
+2022-01-03,2022-10-12,Other,Other,-28.435
+2025-02-19,2025-04-08,NoDur,Consumer Defensive,-3.908
+2025-02-19,2025-04-08,Durbl,Consumer Cyclical,-33.004
+2025-02-19,2025-04-08,Manuf,Industrials,-18.841
+2025-02-19,2025-04-08,Enrgy,Energy,-15.886
+2025-02-19,2025-04-08,Chems,Basic Materials,-12.674
+2025-02-19,2025-04-08,BusEq,Technology,-25.444
+2025-02-19,2025-04-08,Telcm,Communication Services,-9.369
+2025-02-19,2025-04-08,Utils,Utilities,-8.271
+2025-02-19,2025-04-08,Shops,Consumer Cyclical,-18.13
+2025-02-19,2025-04-08,Hlth,Healthcare,-12.264
+2025-02-19,2025-04-08,Money,Financial Services,-17.014
+2025-02-19,2025-04-08,Other,Other,-15.619

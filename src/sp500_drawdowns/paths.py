@@ -30,3 +30,8 @@ REGIME_LABELS_CSV = OUTPUT / "regime_labels.csv"
 REGIME_SECTOR_CSV = OUTPUT / "regime_sector_counts.csv"
 REGIME_FACTOR_CSV = OUTPUT / "regime_factor_summary.csv"
 REGIME_REPORT_MD = OUTPUT / "regime_report.md"
+
+FF_INDUSTRY_CACHE = CACHE / "ff_12_industry_daily.parquet"
+FF_SECTOR_RETURNS_CSV = OUTPUT / "ff_sector_returns_per_drawdown.csv"
+FF_SECTOR_LEADERS_CSV = OUTPUT / "ff_sector_leaders.csv"
+REGIME_EXTENDED_REPORT_MD = OUTPUT / "regime_extended_report.md"
