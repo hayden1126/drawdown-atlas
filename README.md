@@ -27,7 +27,25 @@ python -m sp500_drawdowns.cli constituents
 python -m sp500_drawdowns.cli prices
 python -m sp500_drawdowns.cli rank
 python -m sp500_drawdowns.cli report
+python -m sp500_drawdowns.cli factors
+python -m sp500_drawdowns.cli regimes
 ```
+
+The `factors` stage (Stage 5) aggregates sector and pre-drawdown factor proxies
+(beta, vol, 12-1 momentum) across the top-5 winners and compares them to the
+full point-in-time SPX universe baseline. Outputs four files under
+`data/output/`: `defensive_factors_per_winner.csv`,
+`defensive_factors_summary.csv`, `defensive_factors_sector_counts.csv`, and
+`defensive_factors_report.md`. Factor proxies are price-based only;
+see the report's Limitations section for the honest scope.
+
+The `regimes` stage (Stage 6) classifies each drawdown as **structural**,
+**cyclical**, or **event-driven** following Goldman Sachs' bear-market
+taxonomy, joins those labels onto the factor output, and produces
+regime-conditional sector and factor breakdowns with bootstrapped median
+CIs. Outputs: `regime_labels.csv`, `regime_sector_counts.csv`,
+`regime_factor_summary.csv`, `regime_report.md`. Regime labels are
+hand-curated with rationales preserved in the CSV.
 
 ## Caveats
 

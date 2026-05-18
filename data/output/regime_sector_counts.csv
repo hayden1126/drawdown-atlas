@@ -1,0 +1,24 @@
+regime,sector,count,pct
+cyclical,Technology,5,33.3
+cyclical,Basic Materials,3,20.0
+cyclical,Consumer Cyclical,2,13.3
+cyclical,Energy,1,6.7
+cyclical,Healthcare,1,6.7
+cyclical,Industrials,1,6.7
+cyclical,Unknown,1,6.7
+cyclical,Utilities,1,6.7
+event-driven,Utilities,11,27.5
+event-driven,Consumer Defensive,8,20.0
+event-driven,Healthcare,5,12.5
+event-driven,Consumer Cyclical,4,10.0
+event-driven,Energy,4,10.0
+event-driven,Communication Services,3,7.5
+event-driven,Real Estate,2,5.0
+event-driven,Financial Services,1,2.5
+event-driven,Industrials,1,2.5
+event-driven,Technology,1,2.5
+structural,Healthcare,6,40.0
+structural,Energy,5,33.3
+structural,Consumer Cyclical,2,13.3
+structural,Consumer Defensive,1,6.7
+structural,Industrials,1,6.7

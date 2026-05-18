@@ -1,0 +1,71 @@
+peak_date,trough_date,ticker,sector,industry,pre_dd_beta,pre_dd_vol,pre_dd_momentum,drawdown_return_pct
+1987-08-25,1987-12-04,DOC,Real Estate,REIT - Healthcare Facilities,0.3151,0.2365,0.0248,-3.968
+1987-08-25,1987-12-04,ED,Utilities,Utilities - Regulated Electric,0.7592,0.1822,-0.1312,-4.008
+1987-08-25,1987-12-04,D,Utilities,Utilities - Regulated Electric,0.7231,0.1697,-0.1285,-6.314
+1987-08-25,1987-12-04,EIX,Utilities,Utilities - Regulated Electric,0.9723,0.2191,-0.1251,-7.003
+1987-08-25,1987-12-04,XEL,Utilities,Utilities - Regulated Electric,0.975,0.2516,-0.1447,-7.125
+1989-10-09,1990-01-30,NBR,Energy,Oil & Gas Drilling,-0.3747,0.6389,0.2308,58.824
+1989-10-09,1990-01-30,ADBE,Technology,Software - Application,1.3951,0.5286,0.0337,36.532
+1989-10-09,1990-01-30,NEM,Basic Materials,Gold,0.5366,0.343,0.0981,33.564
+1989-10-09,1990-01-30,J,Industrials,Engineering & Construction,0.2128,0.2655,0.195,25.366
+1989-10-09,1990-01-30,XRAY,Healthcare,Medical Instruments & Supplies,0.1229,0.6751,0.3548,22.5
+1990-07-16,1990-10-11,OKE,Energy,Oil & Gas Midstream,0.7203,0.265,0.0707,10.1
+1990-07-16,1990-10-11,DTE,Utilities,Utilities - Regulated Electric,0.4927,0.1481,0.3529,9.3
+1990-07-16,1990-10-11,EOG,Energy,Oil & Gas E&P,0.6226,0.3205,,8.634
+1990-07-16,1990-10-11,PFE,Healthcare,Drug Manufacturers - General,0.8873,0.251,0.1602,6.205
+1990-07-16,1990-10-11,VLO,Energy,Oil & Gas Refining & Marketing,0.8506,0.3793,0.0316,6.063
+1997-10-07,1997-10-27,ES,Utilities,Utilities - Regulated Electric,0.3443,0.4138,-0.1605,15.19
+1997-10-07,1997-10-27,BBY,Consumer Cyclical,Specialty Retail,0.1036,0.6297,0.006,11.458
+1997-10-07,1997-10-27,CMCSA,Communication Services,Telecom Services,0.8045,0.3428,0.5752,7.494
+1997-10-07,1997-10-27,URBN,Consumer Cyclical,Apparel Retail,0.323,0.5428,-0.05,6.154
+1997-10-07,1997-10-27,WMB,Energy,Oil & Gas Midstream,0.6575,0.2666,0.4466,5.759
+1998-07-17,1998-08-31,EXC,Utilities,Utilities - Regulated Electric,0.3376,0.2852,0.4475,18.532
+1998-07-17,1998-08-31,TAP,Consumer Defensive,Beverages - Brewers,0.5303,0.4767,0.4856,12.666
+1998-07-17,1998-08-31,DUK,Utilities,Utilities - Regulated Electric,0.43,0.1752,0.2833,9.867
+1998-07-17,1998-08-31,PEG,Utilities,Utilities - Regulated Electric,0.3084,0.1648,0.4952,8.955
+1998-07-17,1998-08-31,NEE,Utilities,Utilities - Regulated Electric,0.234,0.1433,0.434,7.991
+1999-07-16,1999-10-15,NEM,Basic Materials,Gold,-0.1734,0.7168,-0.2176,54.477
+1999-07-16,1999-10-15,AAPL,Technology,Consumer Electronics,1.3475,0.5963,0.2576,40.518
+1999-07-16,1999-10-15,MU,Technology,Semiconductors,1.3118,0.7669,0.5168,34.917
+1999-07-16,1999-10-15,GEN,Technology,Software - Infrastructure,1.0631,0.7634,-0.0814,32.773
+1999-07-16,1999-10-15,ADBE,Technology,Software - Application,0.9653,0.588,0.8563,30.477
+2000-03-24,2002-10-09,DVA,Healthcare,Medical Care Facilities,0.4422,0.9002,-0.6647,664.667
+2000-03-24,2002-10-09,COR,Healthcare,Medical Distribution,0.6917,0.7005,-0.5942,379.668
+2000-03-24,2002-10-09,THC,Healthcare,Medical Care Facilities,0.4959,0.4687,-0.0269,246.897
+2000-03-24,2002-10-09,LMT,Industrials,Aerospace & Defense,0.4424,0.4617,-0.5294,241.003
+2000-03-24,2002-10-09,DGX,Healthcare,Diagnostics & Research,0.4891,0.378,0.6568,220.447
+2007-10-09,2009-03-09,AZO,Consumer Cyclical,Auto Parts,1.0837,0.2218,0.0212,21.981
+2007-10-09,2009-03-09,WMT,Consumer Defensive,Discount Stores,0.9273,0.1873,-0.0932,7.403
+2007-10-09,2009-03-09,GILD,Healthcare,Drug Manufacturers - General,1.0411,0.242,0.1694,3.849
+2007-10-09,2009-03-09,MCD,Consumer Cyclical,Restaurants,0.7425,0.1735,0.307,-2.851
+2007-10-09,2009-03-09,BAX,Healthcare,Medical Instruments & Supplies,0.7587,0.1945,0.2138,-5.873
+2015-05-21,2016-02-11,HRL,Consumer Defensive,Packaged Foods,0.8046,0.1774,0.2059,46.694
+2015-05-21,2016-02-11,TSN,Consumer Defensive,Farm Products,0.9478,0.2623,-0.013,39.148
+2015-05-21,2016-02-11,O,Real Estate,REIT - Retail,0.3582,0.1767,0.2028,32.588
+2015-05-21,2016-02-11,GOOGL,Communication Services,Internet Content & Information,1.0261,0.1993,0.0036,26.858
+2015-05-21,2016-02-11,META,Communication Services,Internet Content & Information,1.0956,0.247,0.3617,26.628
+2018-01-26,2018-02-08,QRVO,Technology,Semiconductors,1.764,0.2714,0.0567,13.115
+2018-01-26,2018-02-08,NWL,Consumer Defensive,Household & Personal Products,1.066,0.4561,-0.3199,10.186
+2018-01-26,2018-02-08,TRIP,Consumer Cyclical,Travel Services,1.3326,0.4285,-0.336,8.891
+2018-01-26,2018-02-08,EG,Financial Services,Insurance - Reinsurance,0.8683,0.2121,0.0161,5.152
+2018-01-26,2018-02-08,HAS,Consumer Cyclical,Leisure,0.9295,0.2659,0.136,3.937
+2018-09-20,2018-12-24,SCG,Unknown,Unknown,0.448,0.4095,-0.3076,35.338
+2018-09-20,2018-12-24,NEM,Basic Materials,Gold,0.5785,0.2186,-0.1284,10.235
+2018-09-20,2018-12-24,AZO,Consumer Cyclical,Auto Parts,0.797,0.2604,0.3709,7.994
+2018-09-20,2018-12-24,SBUX,Consumer Cyclical,Restaurants,0.66,0.1959,-0.0176,7.895
+2018-09-20,2018-12-24,PNW,Utilities,Utilities - Regulated Electric,0.2222,0.1615,-0.0437,7.415
+2020-02-19,2020-03-23,REGN,Healthcare,Biotechnology,1.0976,0.2968,-0.1392,13.677
+2020-02-19,2020-03-23,GILD,Healthcare,Drug Manufacturers - General,0.8962,0.2074,-0.029,8.814
+2020-02-19,2020-03-23,KR,Consumer Defensive,Grocery Stores,0.5672,0.2865,0.0065,5.213
+2020-02-19,2020-03-23,CLX,Consumer Defensive,Household & Personal Products,0.3589,0.1804,0.045,3.215
+2020-02-19,2020-03-23,WMT,Consumer Defensive,Discount Stores,0.5465,0.1407,0.1807,-2.46
+2022-01-03,2022-10-12,OXY,Energy,Oil & Gas E&P,1.5959,0.5735,0.5196,110.948
+2022-01-03,2022-10-12,COP,Energy,Oil & Gas E&P,1.1436,0.3563,0.7522,63.918
+2022-01-03,2022-10-12,MPC,Energy,Oil & Gas Refining & Marketing,1.205,0.3205,0.5247,62.995
+2022-01-03,2022-10-12,CTRA,Energy,Oil & Gas E&P,0.6019,0.3754,0.2766,62.517
+2022-01-03,2022-10-12,DVN,Energy,Oil & Gas E&P,1.6153,0.5162,1.5075,61.04
+2025-02-19,2025-04-08,DG,Consumer Defensive,Discount Stores,0.1544,0.493,-0.4797,16.708
+2025-02-19,2025-04-08,MOH,Healthcare,Healthcare Plans,0.3106,0.4048,-0.2596,15.297
+2025-02-19,2025-04-08,NOC,Industrials,Aerospace & Defense,-0.0014,0.1872,0.1374,14.01
+2025-02-19,2025-04-08,COR,Healthcare,Medical Distribution,0.1213,0.1759,0.0647,11.943
+2025-02-19,2025-04-08,ED,Utilities,Utilities - Regulated Electric,-0.1293,0.1712,0.0948,11.327

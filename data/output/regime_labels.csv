@@ -1,0 +1,27 @@
+peak_date,regime,rationale
+1928-05-14,cyclical,Mild late-bull correction; pre-Crash noise.
+1929-09-16,structural,"Great Depression — banking collapse, deflationary spiral."
+1955-09-23,event-driven,Eisenhower heart-attack shock; brief and sharp.
+1956-08-03,cyclical,1957 recession; tight monetary policy.
+1959-08-03,cyclical,1960 recession; Eisenhower-era credit tightening.
+1961-12-12,event-driven,Kennedy 'steel crisis' policy shock; 1962 flash bear.
+1966-02-09,cyclical,1966 credit crunch; late-cycle rate squeeze.
+1967-09-25,cyclical,Brief inflation/rate-anxiety dip.
+1968-11-29,cyclical,1969-70 recession.
+1973-01-11,structural,Oil shock + stagflation + Nixon shock; macro regime change.
+1980-11-28,structural,Volcker disinflation; monetary-policy regime shift.
+1983-10-10,cyclical,Post-disinflation rate scare; mild cyclical.
+1987-08-25,event-driven,Black Monday; portfolio-insurance microstructure shock.
+1989-10-09,cyclical,Late-cycle S&L unease; minor.
+1990-07-16,event-driven,Iraq invasion of Kuwait; oil shock + 1990 recession trigger.
+1997-10-07,event-driven,Asian Financial Crisis; EM-FX contagion.
+1998-07-17,event-driven,Russia default / LTCM blow-up.
+1999-07-16,cyclical,Y2K + Fed-tightening cycle pre-2000 bust.
+2000-03-24,structural,Dot-com bust; valuation reset and earnings collapse.
+2007-10-09,structural,Global Financial Crisis; systemic credit failure.
+2015-05-21,event-driven,China devaluation + oil collapse; commodity shock.
+2018-01-26,event-driven,Vol-spike / XIV blow-up; microstructure event.
+2018-09-20,cyclical,Fed-tightening scare into year-end 2018.
+2020-02-19,event-driven,COVID-19 pandemic shock; fastest 30%+ in history.
+2022-01-03,structural,Inflation/rate regime reset; end of zero-rate era.
+2025-02-19,event-driven,2025 tariff/policy shock.

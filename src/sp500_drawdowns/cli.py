@@ -7,8 +7,10 @@ import click
 
 from . import constituents as cons
 from . import drawdowns as dd
+from . import factors as fac
 from . import prices as px_mod
 from . import ranking as rk
+from . import regimes as reg
 from . import report as rep
 
 
@@ -70,6 +72,20 @@ def report() -> None:
     """Stage 5: render Markdown report."""
     text = rep.run()
     click.echo(text[:2000])
+
+
+@cli.command()
+def factors() -> None:
+    """Stage 5: aggregate defensive-factor exposures across top-5 winners."""
+    fac.run()
+    click.echo("Defensive-factor report written.")
+
+
+@cli.command()
+def regimes() -> None:
+    """Stage 6: classify drawdowns by regime (structural/cyclical/event-driven)."""
+    reg.run()
+    click.echo("Regime taxonomy report written.")
 
 
 @cli.command()
