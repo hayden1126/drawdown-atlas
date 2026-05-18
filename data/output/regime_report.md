@@ -49,11 +49,11 @@ Classifies the 26 detected SPX drawdowns since 1928 into three categories follow
 
 Median pre-drawdown beta / vol / momentum of the top-5 winners, grouped by regime. 95% confidence intervals via 2,000-sample bootstrap of the median.
 
-| regime | n_drawdowns | n_winner_episodes | winners_median_beta | beta_ci95_lo | beta_ci95_hi | winners_median_vol | vol_ci95_lo | vol_ci95_hi | winners_median_dd_return_pct |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| structural | 3 | 15 | 0.759 | 0.496 | 1.144 | 0.375 | 0.222 | 0.516 | 62.995 |
-| cyclical | 3 | 15 | 0.579 | 0.213 | 0.965 | 0.529 | 0.26 | 0.639 | 32.773 |
-| event-driven | 8 | 40 | 0.64 | 0.426 | 0.828 | 0.251 | 0.206 | 0.278 | 9.128 |
+| regime | n_drawdowns | n_winner_episodes | winners_median_beta | beta_ci95_lo | beta_ci95_hi | winners_median_vol | vol_ci95_lo | vol_ci95_hi | winners_median_momentum | winners_median_dd_return_pct |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| structural | 3 | 15 | 0.759 | 0.496 | 1.144 | 0.375 | 0.222 | 0.516 | 0.214 | 62.995 |
+| cyclical | 3 | 15 | 0.579 | 0.213 | 0.965 | 0.529 | 0.26 | 0.639 | 0.098 | 32.773 |
+| event-driven | 8 | 40 | 0.64 | 0.426 | 0.828 | 0.251 | 0.206 | 0.278 | 0.045 | 9.128 |
 
 ## Sector leadership by regime
 

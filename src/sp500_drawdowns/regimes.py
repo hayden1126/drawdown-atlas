@@ -220,6 +220,7 @@ def _write_report(
                 "winners_median_vol",
                 "vol_ci95_lo",
                 "vol_ci95_hi",
+                "winners_median_momentum",
                 "winners_median_dd_return_pct",
             ]
         ]

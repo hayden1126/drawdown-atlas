@@ -104,7 +104,7 @@ Three completely different stories:
   shock is exogenous and short, dividend-paying low-beta names cushion the
   best.
 - **Structural** (dot-com bust, GFC, 2022 rate-regime reset — only 3 of
-  ~6 structural episodes in the analysis window have price coverage):
+  the 6 structural episodes have price coverage):
   Healthcare 40% + Energy 33% account for nearly three-quarters of
   winners. Energy makes sense in 1973/1980, but in the modern sample it
   shows up in 2022. Pharma was relatively stable in the dot-com bust and
@@ -151,7 +151,7 @@ Three implications:
    event-driven one. The min-vol pitch implicitly conditions on
    event-driven; consumers may not realize that.
 
-2. **The "buy the trough winners" trap is even worse than Daniel-Moskowitz
+2. **The "buy the trough winners" trap is even worse than Daniel and Moskowitz
    (2016) made it look.** Their "Momentum Crashes" paper shows that
    cross-sectional winners *crash on the rebound*. This data adds a layer:
    the winners aren't even the same kind of stocks across drawdowns, so
