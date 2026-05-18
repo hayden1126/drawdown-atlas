@@ -32,7 +32,7 @@ taxonomy. The headline finding:
 > completely different stories.**
 
 The full pipeline and outputs are open source:
-[github.com/hayden1126/analysis1](https://github.com/hayden1126/analysis1).
+[github.com/hayden1126/drawdown-atlas](https://github.com/hayden1126/drawdown-atlas).
 
 ## Methodology, briefly
 
@@ -188,7 +188,7 @@ Three implications:
 ## Repo
 
 Full pipeline, intermediate data, and reports:
-**[github.com/hayden1126/analysis1](https://github.com/hayden1126/analysis1)**
+**[github.com/hayden1126/drawdown-atlas](https://github.com/hayden1126/drawdown-atlas)**
 
 The relevant CLI invocations:
 
